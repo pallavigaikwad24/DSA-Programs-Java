@@ -2,7 +2,6 @@ public class BuySellStocks {
 
     public static int buySellStock(int prices[]) {
         int buyPrice = 0;
-        // int sellPrice = 0;
         int currentProfit = 0;
         int maxProfit = 0;
 
